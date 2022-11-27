@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. candidate in Committee on Computational and Applied Mathematics (CCAM) of University of Chicago"
   location         : "Chicago"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=4UdnAicAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
