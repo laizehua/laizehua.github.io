@@ -2,7 +2,7 @@
 title: "Haagerup Bound for Quaternionic Grothendieck Inequality"
 collection: publications
 permalink: /publications/2022-11-28-quaternions/
-excerpt: 'A generalization of Haagerup's approarch to Grothendieck Inequality for quaternions.'
+excerpt: 'A generalization of Haagerup method to Grothendieck Inequality for quaternions.'
 venue: 'arXiv'
 date: 2022-11-28
 paperurl: 'http://laizehua.github.io/files/quaternions.pdf'

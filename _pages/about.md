@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal website of Zehua Lai. 
+This is the personal website of Zehua Lai.  All my papers (published and unpublished) and codes will be in this site.
