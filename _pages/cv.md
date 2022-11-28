@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Since 2018, Ph.D. Candidate in Computational and Applied Mathematics, University of Chicago, Chicago, USA.
+* 2014–2018, B.A. in Mathematics, B.A. in Economics and Finance, Tsinghua University, Beijing, China.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service
 ======
-* Currently signed in to 43 different slack teams
+#### Organizer
+
+- May 2021, SIAM LA21 Minisymposium on Linear Algebra and Differential Geometry
+- Jun 2019, RTG Summer Lectures 2019 on Numerical Methods in Data Science and Deep Neural Networks, http://www.stat.uchicago.edu/events/rtg/
+
+#### Referee
+
+- IEEE Journal of Selected Topics in Signal Processing
+- Journal of Machine Learning Research
+- Linear and Multilinear Algebra
+- Linear Algebra and its Applications
+- Vietnam Journal of Mathematics
+- Journal of Mathematical Physics
+- Numerical Algorithms
+- International Conference on Machine Learning
+- Conference on Neural Information Processing Systems
+- Numerical Linear Algebra with Applications
+- Computational Geometry: Theory and Applications
+- Transactions on Mathematical Software
+- Applied Numerical Mathematics
+- Journal of Symbolic Computation
