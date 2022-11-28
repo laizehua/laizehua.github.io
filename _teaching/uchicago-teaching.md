@@ -1,0 +1,23 @@
+---
+title: "Teaching experience"
+collection: teaching
+type: "graduate course"
+permalink: /teaching/uchicago-teaching
+venue: "University of Chicago"
+date: 2019-10-01
+location: "Chicago, US"
+---
+
+Spring 2022, STAT 28000 Optimization, Teaching Assistant
+
+Autumn 2021, FINM 33180 Multivariate Data Analysis via Matrix Decompositions, Teaching Assistant}
+
+Winter 2021, STAT 28000 Optimization, Teaching Assistant
+
+Autumn 2020, STAT 30900 Matrix Computations, Teaching Assistant
+
+Spring 2020, STAT 28000 Optimization, Teaching Assistant
+
+Winter 2020, STAT 31220 Partial Differential Equations, Teaching Assistant
+
+Autumn 2019, STAT 30900 Matrix Computations, Teaching Assistant
