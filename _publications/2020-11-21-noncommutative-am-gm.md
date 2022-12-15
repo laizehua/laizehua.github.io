@@ -14,3 +14,5 @@ Our method is nonconstructive. A [paper](https://proceedings.neurips.cc/paper/20
 
 The ICML version unfortunately contains a printing error in conjecture 1. Check the [arXiv version](https://arxiv.org/abs/2006.01510) for the correct statement.
 
+Codes are available in https://github.com/laizehua/AM-GM-inequality.
+
