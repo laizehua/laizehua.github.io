@@ -5,8 +5,8 @@ permalink: /publications/2022-11-28-quaternions/
 excerpt: 'A generalization of Haagerup method to Grothendieck Inequality for quaternions.'
 venue: 'arXiv'
 date: 2022-11-28
-paperurl: 'http://laizehua.github.io/files/quaternions.pdf'
-citation: 'Shmuel Friedland, Zehua Lai, and Lek-Heng Lim. &quot;Haagerup Bound for Quaternionic Grothendieck Inequality.&quot; preprint (2022).'
+paperurl: 'https://arxiv.org/abs/2212.00208'
+citation: 'Shmuel Friedland, Zehua Lai, and Lek-Heng Lim. &quot;Haagerup Bound for Quaternionic Grothendieck Inequality.&quot; arXiv e-prints (2021): arXiv-2212.00208.'
 ---
 Abstract:
 

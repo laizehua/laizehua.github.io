@@ -5,8 +5,8 @@ permalink: /publications/2022-11-28-steffensen/
 excerpt: 'A stochastic generalization of Steffensen method.'
 venue: 'arXiv'
 date: 2022-11-28
-paperurl: 'http://laizehua.github.io/files/Steffensen.pdf'
-citation: 'Minda Zhao, Zehua Lai, and Lek-Heng Lim. &quot;Stochastic Steffensen Method.&quot; preprint (2022).'
+paperurl: 'https://arxiv.org/pdf/2211.15310.pdf'
+citation: 'Minda Zhao, Zehua Lai, and Lek-Heng Lim. &quot;Stochastic Steffensen Method.&quot; arXiv e-prints (2021): arXiv-2211.15310.'
 ---
 Abstract:
 
