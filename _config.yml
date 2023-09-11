@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Zehua Lai"
-  avatar           : "profile.png"
-  bio              : "Ph.D. candidate in Committee on Computational and Applied Mathematics (CCAM) of University of Chicago"
-  location         : "Chicago"
+  avatar           : "picture.JPG"
+  bio              : "R. H. Bing instructor in University of Texas at Austin"
+  location         : "Austin, TX"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=4UdnAicAAAAJ"
@@ -106,7 +106,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
