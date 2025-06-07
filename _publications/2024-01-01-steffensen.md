@@ -1,12 +1,12 @@
 ---
 title: "Stochastic Steffensen Method"
 collection: publications
-permalink: /publications/2022-11-28-steffensen/
+permalink: /publications/2024-01-01-steffensen/
 excerpt: 'A stochastic generalization of Steffensen method.'
-venue: 'arXiv'
-date: 2022-11-28
-paperurl: 'https://arxiv.org/pdf/2211.15310.pdf'
-citation: 'Minda Zhao, Zehua Lai, and Lek-Heng Lim. &quot;Stochastic Steffensen Method.&quot; arXiv e-prints (2021): arXiv-2211.15310.'
+venue: 'Computational Optimization and Applications'
+date: 2024-01-01
+paperurl: ' https://doi.org/10.1007/s10589-024-00583-7'
+citation: 'Minda Zhao, Zehua Lai, and Lek-Heng Lim. &quot;Stochastic Steffensen Method.&quot; Computational Optimization and Applications, (2024), https://doi.org/10.1007/s10589-024-00583-7.'
 ---
 Abstract:
 

@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience"
+title: "Teaching in Uchicago"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/uchicago-teaching
 venue: "University of Chicago"
 date: 2019-10-01
-location: "Chicago, US"
+location: "Chicago, IL"
 ---
 
 Spring 2022, STAT 28000 Optimization, Teaching Assistant
