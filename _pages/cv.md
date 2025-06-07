@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-pdf version at https://github.com/laizehua/laizehua.github.io/tree/master/files/CV_Zehua.pdf
+pdf version [here](https://laizehua.github.io/files/CV_Zehua.pdf)
 
 Employment
 ======
