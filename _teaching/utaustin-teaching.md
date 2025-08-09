@@ -1,7 +1,7 @@
 ---
 title: "Teaching in UTAustin"
 collection: teaching
-type: " "
+type: "Undergraduate courses"
 permalink: /teaching/utaustin-teaching
 venue: "University of Texas at Austin"
 date: 2023-07-01
