@@ -1,10 +1,10 @@
 ---
 title: "Teaching in UTAustin"
 collection: teaching
-type: ""
+type: " "
 permalink: /teaching/utaustin-teaching
 venue: "University of Texas at Austin"
-date: 2023-
+date: 2023-07-01
 location: "Austin, TX"
 ---
 
