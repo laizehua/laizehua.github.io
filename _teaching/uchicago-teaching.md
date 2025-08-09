@@ -1,10 +1,10 @@
 ---
 title: "Teaching in Uchicago"
 collection: teaching
-type: "graduate course"
+type: ""
 permalink: /teaching/uchicago-teaching
 venue: "University of Chicago"
-date: 2019-10-01
+date: 2019-2022
 location: "Chicago, IL"
 ---
 
