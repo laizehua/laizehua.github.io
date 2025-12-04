@@ -6,7 +6,7 @@ excerpt: 'A simpler model for optimization on Grassmannian manifolds. A follow-u
 date: 2020-09-28
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2009.13502.pdf'
-citation: 'Lai, Zehua, Lek-Heng Lim, and Ke Ye. &quot;Simpler Grassmannian optimization.&quot; arXiv preprint arXiv:2009.13502 (2020).'
+citation: 'Lai, Zehua, Lek-Heng Lim, and Ke Ye. &quot;Simpler Grassmannian optimization.&quot; arXiv e-prints (2020): arXiv-2009.13502'
 ---
 Abstract:
 

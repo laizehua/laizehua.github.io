@@ -6,7 +6,7 @@ excerpt: 'Statistical inference for contextual bandits.'
 venue: 'preprint'
 date: 2022-12-15
 paperurl: 'http://laizehua.github.io/files/bandit.pdf'
-citation: 'Chen, Xi, Zehua Lai, He Li, and Yichen Zhang. &quot;Online Statistical Inference for Contextual Bandits via Stochastic Gradient Descent.&quot; preprints (2022).'
+citation: 'Chen, Xi, Zehua Lai, He Li, and Yichen Zhang. &quot;Online Statistical Inference for Contextual Bandits via Stochastic Gradient Descent.&quot; preprints (2022)'
 ---
 Abstract:
 

@@ -6,7 +6,7 @@ excerpt: 'A stochastic generalization of Steffensen method.'
 venue: 'Computational Optimization and Applications'
 date: 2024-01-01
 paperurl: ' https://doi.org/10.1007/s10589-024-00583-7'
-citation: 'Minda Zhao, Zehua Lai, and Lek-Heng Lim. &quot;Stochastic Steffensen Method.&quot; Computational Optimization and Applications, (2024), https://doi.org/10.1007/s10589-024-00583-7.'
+citation: 'Minda Zhao, Zehua Lai, and Lek-Heng Lim. &quot;Stochastic Steffensen Method.&quot; Computational Optimization and Applications, (2024), https://doi.org/10.1007/s10589-024-00583-7'
 ---
 Abstract:
 
