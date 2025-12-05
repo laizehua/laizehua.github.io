@@ -6,7 +6,7 @@ excerpt: 'Statistical inference in gradient free methods.'
 venue: 'Journal of the American Statistical Association'
 date: 2023-02-05
 paperurl: 'https://doi.org/10.1080/01621459.2023.2296703'
-citation: 'Chen, Xi, Zehua Lai, He Li, and Yichen Zhang. &quot;Online Statistical Inference for Stochastic Optimization via Kiefer-Wolfowitz Methods.&quot; Journal of the American Statistical Association，(2023), https://doi.org/10.1080/01621459.2023.2296703'
+citation: 'Chen, Xi, Zehua Lai, He Li, and Yichen Zhang. &quot;Online Statistical Inference for Stochastic Optimization via Kiefer-Wolfowitz Methods.&quot; Journal of the American Statistical Association，(2023)'
 ---
 Abstract:
 
