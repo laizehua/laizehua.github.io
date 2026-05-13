@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a R. H. Bing instructor at the University of Texas at Austin. I finished my Ph.D. in computational and applied math at the University of Chicago under the supervision of Prof. Lek-Heng Lim. All my papers (published and unpublished) and codes will be in this site.
+I am assistant researcher in Chinese Academy of Sciences. 
 
-This page is lated updated in 2025/08/09.
+My current research topics include manifold optimization, polynomial optimization, and mathematical foundations of machine learning.
+
+All my papers (published and unpublished) and codes will be in this site.
+
+Last updated in 2026/05/13.
