@@ -1,5 +1,5 @@
 ---
-title: "Online Statistical Inference for Stochastic Optimization via Kiefer-Wolfowitz Methods"
+title: "Online statistical inference for stochastic optimization via Kiefer-Wolfowitz methods"
 collection: publications
 permalink: /publications/2023-02-05-statistical-inference-with-KW-methods/
 excerpt: 'Statistical inference in gradient free methods.'

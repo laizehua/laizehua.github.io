@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am assistant researcher in Chinese Academy of Sciences. 
+I am assistant researcher at Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Institute of Applied Mathematics. 
 
 My current research topics include manifold optimization, polynomial optimization, and mathematical foundations of machine learning.
 

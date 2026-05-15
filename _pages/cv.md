@@ -14,7 +14,8 @@ pdf version [here](https://laizehua.github.io/files/CV_Zehua.pdf)
 Employment
 ======
 
-* Since 2023, R. H. Bing Instructor of Mathematics, University of Texas at Austin, Austin, TX
+* 2026-, Assistant Researcher, Chinese Academy of Sciences, Beijing, China
+* 2023-2026, R. H. Bing Instructor of Mathematics, University of Texas at Austin, Austin, TX
 
 Education
 ======
