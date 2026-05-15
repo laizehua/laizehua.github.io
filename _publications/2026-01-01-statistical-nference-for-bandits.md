@@ -3,8 +3,8 @@ title: "Online statistical inference for contextual bandits via stochastic gradi
 collection: publications
 permalink: /publications/2022-12-15-statistical-inference-for-bandits/
 excerpt: 'Statistical inference for contextual bandits.'
-venue: 'preprint'
-date: 2022-12-15
+venue: 'Journal of the American Statistical Association'
+date: 2026-01-01
 paperurl: 'http://laizehua.github.io/files/bandit.pdf'
 citation: 'Chen, Xi, Zehua Lai, He Li, and Yichen Zhang. &quot;Online Statistical Inference for Contextual Bandits via Stochastic Gradient Descent.&quot; Journal of the American Statistical Association，(2026)'
 ---
