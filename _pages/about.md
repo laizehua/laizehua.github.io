@@ -14,4 +14,6 @@ My current research topics include manifold optimization, polynomial optimizatio
 
 All my papers (published and unpublished) and codes will be in this site.
 
+My email address is lzh at amss dot ac dot cn
+
 Last updated in 2026/05/13.
